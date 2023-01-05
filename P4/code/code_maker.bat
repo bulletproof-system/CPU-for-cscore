@@ -1,0 +1,1 @@
+java -jar "D:\LTT\repository\cscore\CPU\CPU_Auto_Test\Mars\Mars.jar" me nc mc CompactDataAtZero dump .text HexText code.txt test.asm
